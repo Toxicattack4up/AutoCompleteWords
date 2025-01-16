@@ -16,6 +16,7 @@
 2. Перейдите в директорию проекта: cd autocomplete-trie
 
 3. Скомпилируйте программу:
+
 Для Linux/macOS: g++ -o autocomplete autocomplete.cpp
 
 Для Windows: g++ -o autocomplete autocomplete.cpp
